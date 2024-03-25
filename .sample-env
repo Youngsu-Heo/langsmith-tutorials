@@ -1,0 +1,11 @@
+LANGSMITH_API_KEY={LangSmith API Key}
+LANGCHAIN_TRACING_V2={true or false}
+LANGCHAIN_ENDPOINT=https://api.smith.langchain.com
+OPENAI_API_KEY={OpenAI API Key}
+
+
+### Sample ### (Remove this line)
+LANGSMITH_API_KEY=ls__...
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_ENDPOINT=https://api.smith.langchain.com
+OPENAI_API_KEY=sk-...
